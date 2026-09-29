@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Total Cost by Category](./practice/sql/total-cost-by-category) | SQL | Easy | 2026-09-29 |
 | [User Devices](./practice/sql/user-devices) | SQL | Medium | 2026-09-29 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-09-29 |
 
