@@ -1,2 +1,17 @@
-# datadriven-practice
-Scored data engineering practice from datadriven.io
+# ocean_salmon_8337's data engineering practice
+
+Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+
+<!-- datadriven:index:start -->
+
+## Practice
+
+| Problem | Domain | Difficulty | Solved |
+|---|---|---|---|
+| [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-09-29 |
+
+<!-- datadriven:index:end -->
+
+---
+
+Synced by [DataDriven](https://datadriven.io). Solve a problem there and it lands here.
