@@ -1,10 +1,5 @@
-with t1 as 
-(select 
-  svc_name,
-  min(uptime) over(partition by svc_name) as min_uptime
-from svc_health)
-
-select distinct svc_name, min_uptime 
-from t1
-order by min_uptime
-limit 10;
+SELECT svc_name, MIN(uptime) AS min_uptime
+FROM svc_health
+GROUP BY svc_name
+ORDER BY min_uptime
+LIMIT 10;
