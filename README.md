@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Rolling Peak](./practice/python/the-rolling-peak) | Python | Medium | 2026-09-30 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-09-30 |
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-09-30 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-09-30 |
