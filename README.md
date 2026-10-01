@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-10-01 |
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-10-01 |
 | [The Rolling Peak](./practice/python/the-rolling-peak) | Python | Medium | 2026-09-30 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-09-30 |
