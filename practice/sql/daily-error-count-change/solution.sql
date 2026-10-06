@@ -11,5 +11,4 @@ select
   error_count,
   lag(error_count) over(order by error_dates) as prev_count,
   error_count - lag(error_count) over(order by error_dates) as day_over_day_change
-from tables
-order by error_dates;
+from tables;
