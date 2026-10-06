@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-10-06 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-10-02 |
 | [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-10-01 |
 | [The Long Run](./practice/python/the-long-run) | Python | Easy | 2026-10-01 |
