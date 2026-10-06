@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Row Count Surprise](./practice/sql/the-row-count-surprise) | SQL | Easy | 2026-10-06 |
 | [The Listeners](./practice/python/the-listeners) | Python | Medium | 2026-10-06 |
 | [The Event Bucketer](./practice/python/the-event-bucketer) | Python | Easy | 2026-10-06 |
 | [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-10-06 |
