@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Event Bucketer](./practice/python/the-event-bucketer) | Python | Easy | 2026-10-06 |
 | [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-10-06 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-10-02 |
 | [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-10-01 |
