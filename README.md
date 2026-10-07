@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Round and Round They Go](./practice/python/round-and-round-they-go) | Python | Medium | 2026-10-07 |
 | [The Mirror Index](./practice/python/the-mirror-index) | Python | Easy | 2026-10-07 |
 | [The Blind Spot](./practice/sql/the-blind-spot) | SQL | Medium | 2026-10-07 |
 | [The Row Count Surprise](./practice/sql/the-row-count-surprise) | SQL | Easy | 2026-10-06 |
