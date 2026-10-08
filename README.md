@@ -1,6 +1,6 @@
 # ocean_salmon_8337's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Freshest Record](./practice/sql/the-freshest-record) | SQL | Medium | 2026-10-08 |
 | [Round and Round They Go](./practice/python/round-and-round-they-go) | Python | Medium | 2026-10-07 |
 | [The Mirror Index](./practice/python/the-mirror-index) | Python | Easy | 2026-10-07 |
 | [The Blind Spot](./practice/sql/the-blind-spot) | SQL | Medium | 2026-10-07 |
