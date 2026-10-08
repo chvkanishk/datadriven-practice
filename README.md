@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Who Stayed](./practice/sql/who-stayed) | SQL | Hard | 2026-10-08 |
 | [The Freshest Record](./practice/sql/the-freshest-record) | SQL | Medium | 2026-10-08 |
 | [Round and Round They Go](./practice/python/round-and-round-they-go) | Python | Medium | 2026-10-07 |
 | [The Mirror Index](./practice/python/the-mirror-index) | Python | Easy | 2026-10-07 |
