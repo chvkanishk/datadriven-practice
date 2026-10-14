@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Priciest Item in Each Category](./practice/sql/priciest-item-in-each-category) | SQL | Medium | 2026-10-14 |
 | [Price Rank](./practice/sql/price-rank) | SQL | Medium | 2026-10-14 |
 | [Best in Class](./practice/sql/best-in-class) | SQL | Medium | 2026-10-13 |
 | [Who Stayed](./practice/sql/who-stayed) | SQL | Hard | 2026-10-08 |
