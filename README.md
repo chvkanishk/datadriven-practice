@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Second Highest Cloud Cost](./practice/sql/second-highest-cloud-cost) | SQL | Medium | 2026-10-21 |
 | [Second Highest Salary](./practice/sql/second-highest-salary) | SQL | Easy | 2026-10-21 |
 | [Second Highest Value](./practice/sql/second-highest-value) | SQL | Easy | 2026-10-21 |
 | [Priciest Item in Each Category](./practice/sql/priciest-item-in-each-category) | SQL | Medium | 2026-10-14 |
