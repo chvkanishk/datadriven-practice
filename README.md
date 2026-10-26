@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Nth Highest Salary Per Department](./practice/sql/nth-highest-salary-per-department) | SQL | Medium | 2026-10-26 |
 | [Third Largest Batch Job](./practice/sql/third-largest-batch-job) | SQL | Easy | 2026-10-21 |
 | [Second Highest Cloud Cost](./practice/sql/second-highest-cloud-cost) | SQL | Medium | 2026-10-21 |
 | [Second Highest Salary](./practice/sql/second-highest-salary) | SQL | Easy | 2026-10-21 |
