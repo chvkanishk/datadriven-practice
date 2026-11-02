@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Weight of Everything Before](./practice/sql/the-weight-of-everything-before) | SQL | Medium | 2026-11-02 |
 | [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Medium | 2026-11-02 |
 | [Department Running Totals](./practice/sql/department-running-totals) | SQL | Medium | 2026-11-02 |
 | [Spending Velocity](./practice/sql/spending-velocity) | SQL | Medium | 2026-10-28 |
