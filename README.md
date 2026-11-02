@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Department Running Totals](./practice/sql/department-running-totals) | SQL | Medium | 2026-11-02 |
 | [Spending Velocity](./practice/sql/spending-velocity) | SQL | Medium | 2026-10-28 |
 | [Smooth Latency](./practice/sql/smooth-latency) | SQL | Medium | 2026-10-28 |
 | [Nth Highest Salary Per Department](./practice/sql/nth-highest-salary-per-department) | SQL | Medium | 2026-10-26 |
