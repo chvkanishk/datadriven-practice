@@ -30,7 +30,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-10-02 |
 | [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-10-01 |
 | [The Long Run](./practice/python/the-long-run) | Python | Easy | 2026-10-01 |
-| [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-10-01 |
+| [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Medium | 2026-10-01 |
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-10-01 |
 | [The Rolling Peak](./practice/python/the-rolling-peak) | Python | Medium | 2026-09-30 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-09-30 |
