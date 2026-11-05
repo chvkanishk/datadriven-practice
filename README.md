@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Third Highest Spender](./practice/sql/third-highest-spender) | SQL | Medium | 2026-11-05 |
 | [The Podium Finish](./practice/sql/the-podium-finish) | SQL | Medium | 2026-11-05 |
 | [Top Lessons Each Month](./practice/sql/top-lessons-each-month) | SQL | Medium | 2026-11-04 |
 | [The Long Climb](./practice/sql/the-long-climb) | SQL | Medium | 2026-11-04 |
