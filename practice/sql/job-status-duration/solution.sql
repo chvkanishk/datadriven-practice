@@ -19,6 +19,6 @@ SELECT
     SUM(EXTRACT(EPOCH FROM next_start - started)) / 3600
   ) AS running_hours
 FROM t
-WHERE LOWER(TRIM(status)) = 'running'
+WHERE status = 'running'
 GROUP BY job_name
 ORDER BY job_name
