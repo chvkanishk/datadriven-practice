@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/ocean_salmon_8337), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Merge Counters](./practice/python/merge-counters) | Python | Medium | 2026-11-13 |
 | [Repeat Purchase Window](./practice/sql/repeat-purchase-window) | SQL | Medium | 2026-11-12 |
 | [Longest Gap Between Token Events](./practice/sql/longest-gap-between-token-events) | SQL | Medium | 2026-11-12 |
 | [Yearly Output](./practice/sql/yearly-output) | SQL | Easy | 2026-11-12 |
